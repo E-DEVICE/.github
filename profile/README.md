@@ -27,6 +27,14 @@ Not concepts — products in the field:
 - **TwoCan Pulse** — an end-to-end solution for the remote monitoring of heart failure patients, reimbursed by the French national health insurance.
 - **Wirex** — an ADSL-to-GSM converter, deployed in **over 500,000 units** worldwide.
 
+## Engineering notes
+
+How we build the tools and systems behind the products:
+
+- [**Go and a TUI for production tooling that lasts**](https://github.com/E-DEVICE/.github/blob/main/notes/go-tui-production-tooling.md) — why our test-bench tooling is a single static binary with a terminal interface, and where that approach stops.
+
+[All notes →](https://github.com/E-DEVICE/.github/blob/main/notes/)
+
 ## Talk with us
 
 A project, a question, an idea? [Let's talk →](https://edevice.com/contact-us/)
